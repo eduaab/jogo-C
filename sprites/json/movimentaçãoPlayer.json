@@ -1,0 +1,151 @@
+{
+  "sprite": "Players",
+  "edu_walk": {
+    "right": [
+      "sprites/png/eduDireita2.png",
+      "sprites/png/eduDireita1.png",
+      "sprites/png/eduDireita2.png",
+      "sprites/png/eduDireita3.png"
+    ],
+    "left": [
+      "sprites/png/eduEsquerda2.png",
+      "sprites/png/eduEsquerda1.png",
+      "sprites/png/eduEsquerda2.png",
+      "sprites/png/eduEsquerda3.png"
+    ],
+    "up": [
+      "sprites/png/eduCima3.png",
+      "sprites/png/eduCima1.png",
+      "sprites/png/eduCima2.png",
+      "sprites/png/eduCima3.png",
+      "sprites/png/eduCima4.png",
+      "sprites/png/eduCima5.png",
+      "sprites/png/eduCima6.png"
+    ],
+    "down": [
+      "sprites/png/eduBaixo3.png",
+      "sprites/png/eduBaixo1.png",
+      "sprites/png/eduBaixo2.png",
+      "sprites/png/eduBaixo3.png",
+      "sprites/png/eduBaixo4.png",
+      "sprites/png/eduBaixo5.png",
+      "sprites/png/eduBaixo6.png"
+    ]
+  },
+  "brenda_walk": {
+    "right": [
+      "sprites/png/brendaDireita2.png",
+      "sprites/png/brendaDireita1.png",
+      "sprites/png/brendaDireita2.png",
+      "sprites/png/brendaDireita3.png"
+    ],
+    "left": [
+      "sprites/png/brendaEsquerda2.png",
+      "sprites/png/brendaEsquerda1.png",
+      "sprites/png/brendaEsquerda2.png",
+      "sprites/png/brendaEsquerda3.png"
+    ],
+    "up": [
+      "sprites/png/brendaCima4.png",
+      "sprites/png/brendaCima1.png",
+      "sprites/png/brendaCima2.png",
+      "sprites/png/brendaCima3.png",
+      "sprites/png/brendaCima4.png",
+      "sprites/png/brendaCima5.png",
+      "sprites/png/brendaCima6.png"
+    ],
+    "down": [
+      "sprites/png/brendaBaixo4.png",
+      "sprites/png/brendaBaixo1.png",
+      "sprites/png/brendaBaixo2.png",
+      "sprites/png/brendaBaixo3.png",
+      "sprites/png/brendaBaixo4.png",
+      "sprites/png/brendaBaixo5.png",
+      "sprites/png/brendaBaixo6.png"
+    ]
+  },
+  "guto_walk": {
+    "right": [
+      "sprites/png/gutodireita2.png",
+      "sprites/png/gutodireita1.png",
+      "sprites/png/gutodireita2.png",
+      "sprites/png/gutodireita3.png"
+    ],
+    "left": [
+      "sprites/png/gutoesquerda2.png",
+      "sprites/png/gutoesquerda1.png",
+      "sprites/png/gutoesquerda2.png",
+      "sprites/png/gutoesquerda3.png"
+    ],
+    "up": [
+      "sprites/png/gutofrente3.png",
+      "sprites/png/gutofrente1.png",
+      "sprites/png/gutofrente2.png",
+      "sprites/png/gutofrente3.png",
+      "sprites/png/gutofrente4.png",
+      "sprites/png/gutofrente5.png"
+    ],
+    "down": [
+      "sprites/png/gutotras5.png",
+      "sprites/png/gutotras1.png",
+      "sprites/png/gutotras2.png",
+      "sprites/png/gutotras6.png",
+      "sprites/png/gutotras3.png",
+      "sprites/png/gutotras7.png",
+      "sprites/png/gutotras4.png"
+    ]
+  },
+  "ghost_walk": {
+    "right": [
+      "sprites/png/ghostdireita1.png",
+      "sprites/png/ghostdireita2.png",
+      "sprites/png/ghostdireita3.png",
+      "sprites/png/ghostdireita4.png",
+      "sprites/png/ghostdireita5.png",
+      "sprites/png/ghostdireita6.png"
+    ],
+    "left": [
+      "sprites/png/ghostesquerda1.png",
+      "sprites/png/ghostesquerda2.png",
+      "sprites/png/ghostesquerda3.png",
+      "sprites/png/ghostesquerda4.png",
+      "sprites/png/ghostesquerda5.png",
+      "sprites/png/ghostesquerda6.png"
+    ],
+    "up": [
+      "sprites/png/ghostfrente.png",
+      "sprites/png/ghostfrente.png"
+    ],
+    "down": [
+      "sprites/png/ghosttras.png",
+      "sprites/png/ghosttras.png"
+    ]
+  },
+  "ghost2_walk": {
+    "right": [
+      "sprites/png/ghost2direita1.png",
+      "sprites/png/ghost2direita2.png",
+      "sprites/png/ghost2direita3.png",
+      "sprites/png/ghost2direita4.png",
+      "sprites/png/ghost2direita5.png",
+      "sprites/png/ghost2direita6.png"
+    ],
+    "left": [
+      "sprites/png/ghost2esquerda1.png",
+      "sprites/png/ghost2esquerda2.png",
+      "sprites/png/ghost2esquerda3.png",
+      "sprites/png/ghost2esquerda4.png",
+      "sprites/png/ghost2esquerda5.png",
+      "sprites/png/ghost2esquerda6.png"
+    ],
+    "up": [
+      "sprites/png/ghost2tras.png",
+      "sprites/png/ghost2tras.png"
+    ],
+    "down": [
+      "sprites/png/ghost2frente1.png",
+      "sprites/png/ghost2frente1.png"
+      
+    ]
+  }
+}
